@@ -1,0 +1,7 @@
+aiogram>=3.4.1
+openai>=1.14.0
+aiosqlite>=0.20.0
+pytesseract>=0.3.10
+Pillow>=10.2.0
+python-dotenv>=1.0.1
+tzdata>=2024.1
